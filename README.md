@@ -6,12 +6,12 @@
     <link rel="stylesheet" href="style.css">
     <link
       rel="icon"
-      href="https://github.com/huynhquochieu/huynhquochieu.github.io/blob/main/hqh.png?raw=true"/>
+      
 </head>
 <body>
     <div class="container">
         <header>
-            <img src="https://github.com/huynhquochieu/anh/blob/main/hqh2.png?raw=true" width="40%" alt="">
+            
         </header>
         <nav>
             <div class="menu">
@@ -57,4 +57,4 @@
 </body>
 </html>
 
-
+raw.githubusercontent.com
