@@ -1,59 +1,49 @@
-
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Trang Chủ</title>
-    <link rel="stylesheet" href="style.css">
-    <link
-      rel="icon"
-    
-</head>
-<body>
-    <div class="container">
-        <header>
-            
-        </header>
-        <nav>
-            <div class="menu">
-                <ul>
-                    <li><a href="https://huynhquochieu.github.io/">Trang Chủ</a></li>
-                    <li><a href="https://huynhquochieu.github.io/thongtincanhan">Thông Tin Cá Nhân</a></li>
-                    <li><a href="https://huynhquochieu.github.io/hoctap">Học Tập</a></li>
-                    <li><a href="https://huynhquochieu.github.io/lienhe">Liên Hệ</a></li>
-                </ul>
-            </div>
-            <div class="search">
-                <form action="https://huynhquochieu.github.io/camon">
-                    <input type="search" placeholder="Search...." required>
-                    <button> Tìm Kiếm </button>
-                </form>
-            </div>
-        </nav>
-        <div id="slide">
-            <a href=""><img src="https://github.com/nguyentanhungg/anh/blob/main/17.https://www.google.com/url?sa=i&url=https%3A%2F%2Fanhdep123.com%2Ftop-100-hinh-anh-bien-dep-cuon-hut-nhin-la-muon-di-du-lich-ngay-va-luon%2F&psig=AOvVaw2tSJSKmTG5XvCJbfPNpbBr&ust=1651304456858000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJjm_87iuPcCFQAAAAAdAAAAABAKalt="" style="width:980px" ></a>
-        </div>
-        <h1>Nha Trang </h1>
-        <div class="product-list">
-            <div class="product-item">
-                <div class="product-detail">
-                    <h2> 20.04.2022 </h2>
-                </div>
-                <img src="https://github.com/nguyentanhungg/anh/blob/main/21https://www.google.com/url?sa=i&url=https%3A%2F%2Fmeta.vn%2Fhotro%2Fhinh-anh-bien-dep-8722&psig=AOvVaw2tSJSKmTG5XvCJbfPNpbBr&ust=1651304456858000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJjm_87iuPcCFQAAAAAdAAAAABAP" width="100%" border="1px">
-            </div>
-
-            <div class="product-item">
-                <div class="product-detail">
-                    <h2> 21.04.2022 </h2>
-                </div>
-                <img src="https://github.com/nguyentanhungg/anh/blob/main/22.jpg?raw=true" width="100%" border="1px">
-             </div>
-            <div class="product-item">
-                <div class="product-detail">
-                    <h2> 22.04.2022 </h2>
-                </div>
-                <img src="https://github.com/nguyentanhungg/anh/blob/main/20.jpg?raw=true" width="100%" border="1px">
-    </div>
-    
+  <title></title>
+  <style>
+    .bg {
+      background-image:"vb.jpg";
+      background-size: cover;
+    }
+  </style>
+  </head>
+<body class="bg">
+<br />
+  <h3 align="center">    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font face="cinzel">
+    <a style="text-decoration: none href="#">Tutorials</a> &nbsp;&nbsp;&nbsp;
+    <a style="text-decoration: none href="#">Referebces</a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a style="text-decoration: none href="#">Videos</a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a style="text-decoration: none href="#">Pro</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+  </font>
+      
+  </h3>
+  <br />
+  <h1 align="center">
+    <font face="lato" color="#017bf5" size="7">
+  Learn to Code
+    </font>      
+  </h1> 
+  <h3 align="center"> 
+    <font face="lato" color="#000" size="5">
+With the world's largest web developer site
+        <section>
+    <h3 style="margin-bottom: 30px;"></h3>
+    <form class="example" action=""
+          style="margin:auto;max-width:300px;"> 
+        <input type="name" placeholder="search .." name="search">
+      <a href="#" class="searcg-btm">
+  
+    </form>
+    </section>   
+   </font> 
+  </h3>
+  <br />
+  <h3 algign="center">
+  <a href="#">  
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   
+   </a>   
+    </h3>
 </body>
-</html>
+
