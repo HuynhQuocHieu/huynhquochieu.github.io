@@ -3,7 +3,7 @@
   <title></title>
   <style>
     .bg {
-      background-image:"vb.jpg";
+      background-image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elle.vn%2Fthe-gioi-van-hoa%2F26-hinh-anh-dep-den-nghet-tho-du-khong-chinh-sua-photoshop&psig=AOvVaw3W4BPXeCKjS-UAimcK8fRr&ust=1651308365409000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMjX-ZXxuPcCFQAAAAAdAAAAABAp";
       background-size: cover;
     }
   </style>
