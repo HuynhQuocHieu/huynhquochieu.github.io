@@ -88,10 +88,6 @@
             <h1> HUỲNH QUỐC HIẾU </h1>
         </div>
         <div class="navbar">
-            <a href="mailto:hqhieu.a7.c3tqcap@gmail.com">Gmail</a>
-            <a href="https://www.youtube.com/channel/UCElXAHf-s2fOmQbuRS7Y78Q">Youtube</a>
-            <a href="https://www.facebook.com/profile.php?id=100069382106622" class="right">Facebook</a>
-        </div>
         <div>
             <div class="b2" ><a href="https://www.facebook.com/messenger_media?thread_id=100045667539664&attachment_id=5207864209261044&message_id=mid.%24cAAAB_oWAty6GzVtIOWAnBX-e8jhs">game</a></div><br>
             <div class="b2" ><a href="https://anhtannguyen.github.io/web3.2/">Nhạc meme</a></div><br>
