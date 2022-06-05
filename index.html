@@ -1,118 +1,34 @@
 
-<html chan="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title> HUYNH QUOC HIEU </title>
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    </head>
-    <!-- Head= chỉ để chỉnh sửa web ko hiện thị-->
-    <style>
-        /* Height = Y; Width = X */
-        /* thuộc tính chia 4 đến 1 phần:
-            4 là Top-Right-bottom-left
-            3 là Top-Right=left-bottom
-            2 là Top=bottom-Right=left
-            1 là mỗi bên nhau */
-            
-        *{
-            margin:0;
-            padding:0;
-
-        }
-        body{
-            background-image:url("https://phunugioi.com/wp-content/uploads/2021/11/Background-xam-dep-nhat-1.jpg");
-            background-size:auto;
-            
-        }
-
-        
-        /* đầu trang */
-        .header{
-            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRIy59zwBOrVXvU5NGc5CRqjuA6jCqU8Jw8g&usqp=CAU");
-            position:none;
-            color:black;
-            padding:60;
-            text-align:center;
-            font-size:30;
-        }
-        .navbar {
-        overflow: hidden;
-        background-color: black;
-        }
-        .navbar a {
-        float: left;
-        display: block;
-        color: white;
-        text-align: center;
-        padding: 14px 20px;
-        text-decoration: none;
-        }
-        .navbar a:hover {
-        background-color:white;
-        color: black;
-        }
-        /* Khai báo biến toàn cục */
-        :root{
-            --pink-color:black;
-        }
-        /* nút chọn của anime,nhạc,ảnh */
-        button{
-            outline:auto;
-            color:black;
-            background-color:transparent;
-            border: 1px solid var(--pink-color);
-            padding:50px 100px;
-            border-bottom-right-radius:0;/* Góc cong của background chữ */
-            cursor: pointer;
-            transition: 0.2s;/* thời gian chuyển động hiệu ứng */
-        }
-        /* :hover là chức năng chuyển đổi của Transition */
-        button:hover {
-            background-color:orange;
-        }
-        /* a2 là phần canh chỉnh khung của link anime.nhạc,ảnh */
-        .a2{     
-            display: flex;
-            padding-top:10%;
-            padding-left:20%;
-            padding-right:20%;
-        }
-        .a2 form {
-            margin-right:40px;
-        }
-        
-    </style>
-    <!-- style= tạo kiểu cho thẻ,có hiển thị-->
-    <body>
-        <div class="header">
-            <h1> HUYNH QUOC HIEU</h1>
-        </div>
-        <header></header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Huỳnh Quốc Hiếu</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+</head>
+<body>
+    <div class="banner">
         <div class="navbar">
-        </div>
-        <div id="a4">
-            <div class="a2">
-                <div >
-                    <form action="https://anhtannguyen.github.io/food/", >
-                        <button class="a1">&emsp; HOAT HINH &emsp;</button>
-                    </form>
-                </div>
-                <div>    
-                    <form action="https://anhtannguyen.github.io/web3.2/">
-                        <button>NHAC</button>
-                    </form>       
-                </div>
-                <div>
-                    <form action="https://anhtannguyen.github.io/20220506.8h.web4/","https://www.google.com/search?q=%E1%BA%A2NH+ANIME&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjBtN3qk5D4AhV7-DgGHU3lA2gQ_AUoAXoECAEQAw&biw=1600&bih=799&dpr=1#imgrc=ZtsG6SVCKXdtBM">
-                        <button style="padding:50px 95px;" >ANH</button>
-                    </form>   
-                </div>
+            <img src="#" class="logo">
+            <div id="toggle">
+                <i class="fa-solid fa-bars"></i>
             </div>
-            <div class="a3">
-                <img src="https://www.google.com/search?q=%E1%BA%A2NH+ANIME&tbm=isch&source=iu&ictx=1&vet=1&fir=bP5jCkid-7691M%252CZMrTz-doAgJTbM%252C_%253BPKImsphVT3TMMM%252COgstnZkx3ClTjM%252C_%253BtAaiTU7iLEJ16M%252C_PdVsQW-0Mt9MM%252C_%253BktUi94vDKDYS1M%252CfXGLlVduOuGaaM%252C_%253BAYFLh0RCooStwM%252CsvvG7uN3t_whnM%252C_%253Bj_fOk9vnhLofOM%252CrhHtCf_xXpvjcM%252C_%253Bf4Oh24AcalE1FM%252CCnppsPaD6It8wM%252C_%253B84A8NM2tsjWxLM%252CZMrTz-doAgJTbM%252C_%253BqKxjFy7okWV1NM%252CC13WhhYco3FptM%252C_%253BxdlgEA74lX0_TM%252CXi_dcELZk6NTJM%252C_%253BdK2aoJWC69mRVM%252CDdWowIKgtCeSkM%252C_%253BE3LL3yv2ZYSX3M%252C1HThB0xNZ8sf9M%252C_%253BH7RxSSpzkQvUhM%252CbO7kpc6J5duiGM%252C_%253BaliU4325OCi6KM%252Ci_ivaZa3yZ56uM%252C_%253BPKU61imEI_wNCM%252C95D4Tl15GadKAM%252C_%253Bmb_n_ZQ6_1oUIM%252CtOkcAgzI8olXqM%252C_%253BpVTqYccdMkS7bM%252C5Zk34xWH--w9EM%252C_%253B8WsDS3ifvRA2rM%252Cvn39Bmt-ZSVMIM%252C_&usg=AI4_-kRn9jN58BdNktliysZOttbqlFD_Fw&sa=X&ved=2ahUKEwj1vYfDlZD4AhUE8jgGHYsDCE8Q9QF6BAgPEAE&biw=1600&bih=799&dpr=1#imgrc=tAaiTU7iLEJ16M">
-            </div>
+            <nav>
+                <ul id="main-menu">
+                    <li><a href="#">TRANG CHỦ</a></li>
+                    <li><a href="#">THÔNG TIN CÁ NHÂN</a></li>
+                    <li><a href="#">ẢNH YÊU THÍCH</a></li>
+                </ul>
+            </nav>
         </div>
-    </body>
+        <hr size="2" width="1580px" >
+        <div class="content">
+            <p>Chào mừng các bạn đến với trang web của tôi!!</p>
+            <h1>HUỲNH QUỐC HIẾU</h1>
+            
+        </div>
+
+    </div>   
+</body>
 </html>
