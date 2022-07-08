@@ -2,8 +2,8 @@
 <html>
        <head>
                   <style>
-    #noidung{background: blue; height:250px; width:100%;color:yellow; font-size:25px;}
-    button{background:red;}
+    #noidung{background:brown; height:250px; width:100%;color:black; font-size:25px;}
+    button{background;}
 </style>
        </head>
        <body>
