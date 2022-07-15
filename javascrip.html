@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html>
        <head>
-                  <style>
-    #noidung{background:brown; height:250px; width:100%;color:black; font-size:25px;}
+           <style>
+    #noidung{background:brown; height:250px; width:100%;color:blue; font-size:25px;}
     button{background;}
+    body {
+  display: grid;
+  place-items: center;
+}         
 </style>
        </head>
        <body>
-        <h1>Bài tập JavaScript</h1>
+          <h1>Bài tập JavaScript</h1>
+         
       <form id="myForm" action="">
          <p>họ tên:<input id="textbox1" name="ten" type="text"/></p>
          <p>email:<input id="textbox2" name="email" type="text"/></p>
@@ -15,12 +20,14 @@
          <p>quốc tịch:<input id="textbox4" name="quoctich" type="text"/></p>
          <p>sở thích:<input id="textbox5" name="sothich" type="text"/></p>
        </form>
+       
         <p id="noidung">chào</p>
         <button type="button" onclick="hienthi()">họ tên </button>            
         <button type="button" onclick="email()">email</button>            
         <button type="button" onclick="gioitinh()">giớitính</button>  
         <button type="button" onclick="quoctich()">quốc tịch</button> 
-        <button type="button" onclick="sothich()">sở thích</button> 
+        <button type="button" onclick="sothich()">sở thích</button>
+           
         <script>
           function hienthi() {
 
